@@ -6,7 +6,7 @@
 </div>
 
 # About
-Hello 👋... I had been hearing about Flutter for a long time, but a little while ago I started writing lines of code with this technology thanks to the faculty under pressure of one of the course's chairs (Development of Mobile Applications), where my teacher used Flutter to teach the course, since then I've been enjoying the tool. Today I study it every day.
+Hello 👋... I had been hearing about Flutter for a long time, but a little while ago I started writing lines of code with this technology thanks to the faculty under pressure of one of the course's chairs (Development of Mobile Applications), where my teacher used Flutter to teach the course, since then I've been enjoying the tool.
 
 For the final exam, we were asked to develop an application of our choice. I'm passionate about personal organization and overall productivity, so I've developed an app that can help manage notes and tasks.
 
